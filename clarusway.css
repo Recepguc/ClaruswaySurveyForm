@@ -1,0 +1,39 @@
+* {
+    margin: 6px;
+    padding: 1px;
+    box-sizing: border-box;
+}
+div {
+    width: 90%;
+}
+    #name ,#surname ,#email
+     {  width: 500px;
+        padding: 10px;
+        margin-top: 10px;
+        display: flex;
+
+}
+textarea {
+    resize: none;
+}
+body{
+    background-image:url(./image/Hobbit-ve-yuzuklerin-efendisi-1024x576.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    color: white;
+    filter:opacity(100);
+    font-size:x-large;
+}
+button{
+    width: 160px;
+        height: 45px;
+        border-radius: 50px;
+        background-color: red;
+        color: white;
+        border: none;
+        cursor: pointer;
+        margin: auto;
+        
+
+}
